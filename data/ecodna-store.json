@@ -1,0 +1,18 @@
+{
+  "samples": [],
+  "datasets": [],
+  "analysis_jobs": [],
+  "taxonomy_results": [],
+  "biodiversity_metrics": [],
+  "reports": [],
+  "users": [],
+  "activity_logs": [],
+  "system_settings": {
+    "maxFileSizeMb": 10,
+    "allowRegistration": true,
+    "maintenanceMode": false,
+    "defaultConfidenceThreshold": 85,
+    "updatedAt": "2026-11-25T12:46:39.486Z",
+    "updatedBy": "system"
+  }
+}

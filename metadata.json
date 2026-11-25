@@ -1,0 +1,6 @@
+{
+  "name": "EcoDNA – Biodiversity Intelligence Platform",
+  "description": "Scientific platform for environmental DNA (eDNA) taxonomy identification, biodiversity indexing, and ecological pattern analysis (Problem Statement ID: 25042).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
